@@ -1,4 +1,4 @@
--- SimpleFS – Complete File System Wrapper for Potassium FS
+
 local SimpleFS = {}
 
 -- Check if a file exists
